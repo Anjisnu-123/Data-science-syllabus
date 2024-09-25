@@ -145,8 +145,56 @@ Here you will get all details of the Data Science course.
   - **Tensor Operations**
     - Element-Wise Multiplication
     - Matrix Multiplication
+      
+## Chapter 2: Linear Algebra
 
-
+- **Day 3 Index: [Understanding Limits and Continuity: Foundations of Calculus and Applications in Data Science](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day3/Content.md)**  
+  
+  - **Introduction**
+  - **Concepts of Limits**
+    - Definition and Notation
+    - One-Sided Limits
+    - Infinite Limits
+    - Limits at Infinity
+  - **Properties of Limits**
+    - Left-Hand and Right-Hand Limits
+    - Infinite Limits
+    - Limit at Infinity
+    - Properties Include:
+      - Sum/Difference
+      - Product
+      - Quotient
+      - Composition
+  - **Evaluating Limits**
+    - Direct Substitution
+    - Factoring
+    - Rationalization
+    - L'Hopital's Rule
+  - **One-Sided Limits**
+    - Left-Hand Limit
+    - Right-Hand Limit
+    - Importance
+  - **Continuity of Functions**
+    - Conditions for Continuity
+    - Visual Representation
+  - **Types of Discontinuity**
+    - Jump Discontinuity
+    - Removable Discontinuity
+    - Infinite Discontinuity
+    - Oscillatory Discontinuity
+  - **Epsilon-Delta Definitions of Limits**
+    - Epsilon Criterion
+    - Delta Criterion
+    - Importance in Calculus
+    - Examples
+  - **Applications in Data Science**
+    - Gaussian Distribution
+    - Normal Distribution
+    - Large Sample Theory
+    - Biometrica Tables
+  - **Case Study: Logistic Regression**
+  - **Notes**
+  - **Conclusion**
 
 
 ### Chapter 2: Probability and Statistics
