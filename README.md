@@ -148,7 +148,7 @@ Here you will get all details of the Data Science course.
       
 ## Chapter 2: Linear Algebra
 
-- **Day 3 Index: [Understanding Limits and Continuity: Foundations of Calculus and Applications in Data Science](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day3/Content.md)**  
+- **Day 3 Index: [Understanding Limits and Continuity: Foundations of Calculus and Applications in Data Science](https://github.com/Anjisnu-123/limit-continuity-and-differentiability/blob/main/DAY%203/Limit_continuity.md)**  
   
   - **Introduction**
   - **Concepts of Limits**
@@ -196,6 +196,291 @@ Here you will get all details of the Data Science course.
   - **Notes**
   - **Conclusion**
 
+- **Day 4 : [Calculus and Probability/Statistics Overview](https://github.com/Anjisnu-123/limit-continuity-and-differentiability/blob/main/Day%204/content.md)**  
+  
+  - **Derivatives and Their Applications**
+    - Understanding of Derivative
+    - Basic Rules of Derivatives
+      - Power Rule
+      - Product Rule
+      - Quotient Rule
+      - Chain Rule
+    - Higher Order Derivatives
+      - Definition and Notation
+      - Second Order Derivative
+      - Third Order Derivative (Jerk)
+      - Graphical Representation
+    - Partial Derivatives
+      - Definition
+      - Notation
+      - Application
+      - Visualization
+    - Advanced Topics
+      - Stochastic Calculus
+        - Random Forest Modeling
+        - Brownian Motion
+        - Ito's Lemma
+        - Complex Derivative Pricing
+        - Financial Application
+        - Visual Representation
+  - **Probability and Statistics**
+    - Probability Theory
+      - Basics
+      - Concepts
+    - Random Variables and Distributions
+      - Random Variables
+      - Distributions
+    - Descriptive Statistics
+      - Measures of Central Tendency
+      - Measures of Dispersion
+    - Inferential Statistics
+      - Hypothesis Testing
+      - Confidence Intervals
+      - Regression Analysis
+        
+- **Day 5: [Introduction to Integrals]([https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day5/Content.md](https://github.com/Anjisnu-123/limit-continuity-and-differentiability/blob/main/Day%205/integrals.md?plain=1))**  
+
+  - **Definite Integrals**
+    - Definition
+    - Applications of Definite Integrals
+      - Calculating Distances
+      - Determining Areas
+      - Finding Volumes
+      - Work Done by a Force
+      - Consumer and Producer Surplus
+  - **Indefinite Integrals**
+    - Definition
+    - Role in Differential Equations
+    - Example
+    - Applications in Real Life
+  - **Fundamental Theorem of Calculus**
+    - Connection Between Differentiation and Integration
+  - **Integration Techniques**
+    - Substitution
+    - Integration by Parts
+      - Step-by-Step Example
+    - Partial Fraction Decomposition
+  - **Area Under a Curve**
+    - Basic Concept
+    - Geometric Interpretation
+  - **Volume Calculation**
+    - Solid of Revolution
+      - Volume Formula
+      - Example Calculation
+    - Applications
+  - **Disk-Washer Method**
+    - Volume Formula
+      - Disk Method
+      - Washer Method
+  - **Numerical Integration**
+    - Introduction
+    - Trapezoidal Rule
+    - Simpson's Rule
+    - Applications in Python
+      - Example Implementation
+      - Manual Implementation of Numerical Integration
+
+## Chapter 2: Probability
+
+- **Day 6 : [Introduction to Probability](https://github.com/Anjisnu-123/Probability/blob/main/Day%20006/content.md)**  
+
+  - **Introduction**
+  - **Sample Space**
+    - Definition of Sample Space
+    - Example of Sample Space
+    - Definition of Event
+    - Importance of Sample Space
+  - **Event**
+    - Definition and Importance of Events
+    - Definition of Likelihood
+  - **Subset Representation of Events**
+    - Notation and Representation
+    - Importance of Subset Representation
+  - **Basic Terminology**
+    - Outcome
+    - Trial
+    - Favorable Outcome
+  - **Probability as a Measure**
+    - Relative Frequency Interpretation of Probability
+    - Mutually Exclusive Events
+    - Union and Intersection of Events
+    - Complement of an Event
+  - **Probability Axioms**
+    - Axiom 1: Non-negativity
+    - Axiom 2: Total Probability
+    - Axiom 3: Additivity
+    - Additional Consequences and Importance of Axioms
+  - **Properties of Probability**
+    - Complement Rule
+    - Union of Events
+    - Conditional Probability
+    - Probability of Impossible Event
+    - Probability of Entire Sample Space
+  - **Importance of Probability in AI and ML**
+  - **Conditional Probability**
+    - Definition
+    - Mathematical Formula
+    - Importance
+    - Calculation of Conditional Probability
+  - **Independence of Events**
+    - Definition
+    - Mathematical Representation
+    - Example
+    - Implications of Independence
+  - **Understanding Dependent and Independent Events in Data Science**
+  - **Joint and Marginal Probabilities**
+    - Definition and Importance
+  - **Total Probability Theorem**
+    - Description
+    - Formula
+    - Importance
+    - Example Question
+  - **Bayes' Theorem**
+    - Formula
+    - Components of Bayes' Theorem
+    - Applications of Bayes' Theorem
+  - **Combinatorics**
+    - Definition and Importance
+    - Permutations
+      - Definition and Role in Probability
+    - Combinations
+      - Definition and Numeric Example
+
+- **Day 8 Index: [Understanding Random Variables and Their Applications](https://github.com/Anjisnu-123/Probability/blob/main/Day%20008/content.md)**
+
+  - **Introduction to Random Variables**
+    - What is a Random Variable?
+      - Definition and Example
+      - Deterministic Variable
+      - Importance of Random Variables
+      - Key Benefits Over Deterministic Variables
+      - Notations and Examples
+      - Differences Between Random and Deterministic Variables
+
+  - **Classification of Random Variables**
+    - Discrete Random Variables
+      - Overview and Formal Definition
+      - Example
+    - Continuous Random Variables
+      - Overview and Formal Definition
+      - Example
+    - Categorical Random Variables
+    - Binary Random Variables
+    - Multinomial Random Variables
+
+  - **Discrete Random Variables: PMF and CDF**
+    - Probability Mass Function (PMF)
+      - Definition and Mathematics
+      - Key Properties
+      - Calculation Method and Steps
+      - Importance of PMF
+    - Cumulative Distribution Function (CDF)
+      - Definition and Mathematics
+      - Importance of CDF
+
+  - **Introduction to Moments**
+    - What are Moments?
+      - Types of Moments (Raw and Central)
+      - Importance of Moments
+      - Moment Calculations (Mean, Variance, Skewness, Kurtosis)
+
+  - **Exploring Continuous Random Variables**
+    - Definition and Real-World Example
+    - Probability Density Function (PDF)
+      - Definition, Mathematics, and Calculation
+      - Importance of PDF
+    - Cumulative Distribution Function (CDF) for Continuous Variables
+      - Definition and Importance
+
+  - **Expectations and Variance Properties**
+    - Properties of Expectation
+    - Properties of Variance
+      - Variance of Linear Combination
+      - Covariance and Independence
+
+  - **Characteristic Functions**
+    - Definition and Basic Properties
+    - Moment Generation and Inversion
+
+  - **Transformation of Random Variables**
+    - General Transformation
+    - Non-Monotonic Transformations: Jacobian Method
+
+  - **Homework**
+    - Calculate the fourth and third order central moments using the moment generating function (MGF).
+    - Explore how transformations affect the moments and distributions of random variables.
+
+  - **Common Distribution Properties**
+    - Support and Parameterization
+    - Statistical Properties of Distributions
+
+  - **Next Concept: Convergence**
+    - Overview of Convergence in Probability Theory
+    - Types of Convergence: Distribution, Probability, Almost Sure Convergence
+    - Importance of Convergence in Statistical Inference and the Central Limit Theorem
+
+## Day 9 Index: [Convergence Concepts and Probability Distributions in Data Science](https://github.com/Anjisnu-123/Probability/blob/main/Day%20009/content.md)
+
+- **Introduction**
+- **Convergence Concepts**
+  - **Law of Large Numbers**
+    - Weak Law of Large Numbers
+    - Strong Law of Large Numbers
+  - **Central Limit Theorem**
+- **Discrete Distributions**
+  - **Bernoulli Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Skewness, Kurtosis
+    - Application
+  - **Binomial Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Skewness, Kurtosis
+    - Application
+  - **Geometric Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Skewness, Kurtosis
+    - Application
+  - **Negative Binomial Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Skewness, Kurtosis
+    - Application
+  - **Poisson Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Skewness, Kurtosis
+    - Application
+  - **Hypergeometric Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Skewness, Kurtosis
+    - Application
+  - **Multinomial Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Covariance
+    - Application
+  - **Discrete Uniform Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Skewness, Kurtosis
+    - Application
+  - **Zipf's Distribution**
+    - Definition
+    - PMF and CDF
+    - Mean, Variance, Special Characteristics
+    - Application
+- **Applications in Data Science**
+- **Statistical Inference**
+  - Hypothesis Testing
+  - Confidence Intervals
+- **Fitting Data to Distributions**
+  - Parameter Estimation
+  - Goodness of Fit Tests
+- **Additional Resources**
 
 ### Chapter 2: Probability and Statistics
 - [Descriptive Statistics](https://example.com/descriptive-statistics)
