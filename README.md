@@ -419,68 +419,68 @@ Here you will get all details of the Data Science course.
     - Types of Convergence: Distribution, Probability, Almost Sure Convergence
     - Importance of Convergence in Statistical Inference and the Central Limit Theorem
 
-## Day 9 Index: [Convergence Concepts and Probability Distributions in Data Science](https://github.com/Anjisnu-123/Probability/blob/main/Day%20009/content.md)
+- **Day 9 Index: [Convergence Concepts and Probability Distributions in Data Science](https://github.com/Anjisnu-123/Probability/blob/main/Day%20009/content.md)**
 
-- **Introduction**
-- **Convergence Concepts**
-  - **Law of Large Numbers**
-    - Weak Law of Large Numbers
-    - Strong Law of Large Numbers
-  - **Central Limit Theorem**
-- **Discrete Distributions**
-  - **Bernoulli Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Skewness, Kurtosis
-    - Application
-  - **Binomial Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Skewness, Kurtosis
-    - Application
-  - **Geometric Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Skewness, Kurtosis
-    - Application
-  - **Negative Binomial Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Skewness, Kurtosis
-    - Application
-  - **Poisson Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Skewness, Kurtosis
-    - Application
-  - **Hypergeometric Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Skewness, Kurtosis
-    - Application
-  - **Multinomial Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Covariance
-    - Application
-  - **Discrete Uniform Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Skewness, Kurtosis
-    - Application
-  - **Zipf's Distribution**
-    - Definition
-    - PMF and CDF
-    - Mean, Variance, Special Characteristics
-    - Application
-- **Applications in Data Science**
-- **Statistical Inference**
-  - Hypothesis Testing
-  - Confidence Intervals
-- **Fitting Data to Distributions**
-  - Parameter Estimation
-  - Goodness of Fit Tests
-- **Additional Resources**
+  - **Introduction**
+  - **Convergence Concepts**
+    - **Law of Large Numbers**
+      - Weak Law of Large Numbers
+      - Strong Law of Large Numbers
+      - **Central Limit Theorem**
+  - **Discrete Distributions**
+    - **Bernoulli Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Binomial Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Geometric Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Negative Binomial Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Poisson Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Hypergeometric Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Multinomial Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Covariance
+      - Application
+    - **Discrete Uniform Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Zipf's Distribution**
+      - Definition
+      - PMF and CDF
+      - Mean, Variance, Special Characteristics
+      - Application
+  - **Applications in Data Science**
+  - **Statistical Inference**
+    - Hypothesis Testing
+    - Confidence Intervals
+  - **Fitting Data to Distributions**
+    - Parameter Estimation
+    - Goodness of Fit Tests
+  - **Additional Resources**
 
 ### Chapter 2: Probability and Statistics
 - [Descriptive Statistics](https://example.com/descriptive-statistics)
