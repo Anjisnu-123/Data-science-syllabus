@@ -5,7 +5,6 @@ Here you will get all details of the Data Science course.
 ## Mathematics for Data Science
 
 ### Chapter 1: Linear Algebra
-### Chapter 1: Linear Algebra
 
 - **[Vectors and Matrices](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day1/Content.md)**  
   **Day 1 Content:**
