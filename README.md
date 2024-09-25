@@ -2,6 +2,7 @@
 
 Here you will get all details of the Data Science course.
 
+
 # Mathematics for Data Science
 
 ## Chapter 1: Linear Algebra
