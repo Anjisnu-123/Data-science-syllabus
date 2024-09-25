@@ -2,12 +2,11 @@
 
 Here you will get all details of the Data Science course.
 
-## Mathematics for Data Science
+# Mathematics for Data Science
 
-### Chapter 1: Linear Algebra
+## Chapter 1: Linear Algebra
 
-- **[Vectors and Matrices](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day1/Content.md)**  
-  **Day 1 Content:**
+- **Day 1: [Vectors and Matrices](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day1/Content.md)**  
   - **Scalars and Arrays**
   - **N-Tuples**
   - **Vectors and 3D Vectors**
@@ -66,9 +65,8 @@ Here you will get all details of the Data Science course.
     - Computer Graphics
     - Machine Learning
     - Robotics
-- **[Matrices and Tensors: An Overview](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day2/Content.md)**  
-  **Day 2 Index:**
-  - **Introduction to Matrices**
+- **Day 2: [Matrices and Tensors: An Overview](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day2/Content.md)**
+    - **Introduction to Matrices**
     - Definition
     - Notation
     - Dimension
