@@ -281,7 +281,7 @@ Here you will get all details of the Data Science course.
       - Example Implementation
       - Manual Implementation of Numerical Integration
 
-## Chapter 2: Probability
+## Chapter 3: Probability
 
 - **Day 6 : [Introduction to Probability](https://github.com/Anjisnu-123/Probability/blob/main/Day%20006/content.md)**  
 
