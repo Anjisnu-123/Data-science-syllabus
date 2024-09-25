@@ -67,70 +67,89 @@ Here you will get all details of the Data Science course.
     - Computer Graphics
     - Machine Learning
     - Robotics
-# Day 2: Matrices and Tensors
+- **[Matrices and Tensors: An Overview](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day2/Content.md)**  
+  **Day 2 Index:**
+  - **Introduction to Matrices**
+    - Definition
+    - Notation
+    - Dimension
+    - Applications
+  - **Square Matrix**
+    - Trace of a Matrix
+    - Equal Matrix
+    - Zero Matrix
+  - **Matrix Operations**
+    - Addition
+    - Multiplication
+    - Determinant
+    - Eigenvalue and Eigenvector
+    - Transformation Matrices
+  - **Scalar Multiplication**
+    - Definition
+    - Resulting Matrix
+    - Mathematical Representation
+    - Example Application
+  - **Properties**
+    - Addition and Subtraction
+    - Transpose
+      - Double Transpose
+    - Symmetry and Skew-Symmetry
+      - Symmetric Matrix
+      - Skew-Symmetric Matrix
+  - **Partitioning of Matrix**
+    - Definition
+    - Benefits
+    - Application in Algorithms
+    - Types of Partitioning
+  - **Characterization**
+    - Square Matrix
+    - Rectangular Matrix
+      - Rank of Rectangular Matrix
+  - **Special Matrices**
+    - Identity Matrix
+    - Upper Triangular Matrix
+    - Lower Triangular Matrix
+  - **Inverse of a Matrix**
+    - Definition
+    - Computation
+  - **Determinant of a Matrix**
+    - Definition
+  - **Characterization of Identity Matrix**
+    - Diagonal Matrix
+    - Unit Matrix
+    - Application
+  - **Characterization of Null Matrix**
+    - Definition
+    - Dimension and Types
+    - Properties
+    - Application
+  - **Vectors and Matrices**
+    - Definition of Vectors
+    - Matrix-Vector Multiplication
+    - Importance of Vector Operations
+  - **Introduction to Tensors**
+    - Definition
+    - Historical Background
+    - Basic Example
+    - Importance in Math
+    - Applications in Technology
+  - **Why Do We Need Tensors**
+    - Complex Data Representation
+    - Operations Efficiency
+    - Framework Utilization
+  - **Properties of Tensors**
+    - Rank
+    - Shape
+    - Operations
+    - Transformation Rules
+  - **Application in AI/ML**
+    - Comparison with Other Data Structures
+    - Application in Neural Networks
+  - **Tensor Operations**
+    - Element-Wise Multiplication
+    - Matrix Multiplication
 
-- ## 1. Matrices Overview
-   - 1.1 Definition
-   - 1.2 Notation
-   - 1.3 Dimension
-   - 1.4 Applications
 
-## 2. Square Matrix
-   - 2.1 Trace
-   - 2.2 Types
-      - 2.2.1 Equal Matrix
-      - 2.2.2 Zero Matrix
-
-## 3. Matrix Operations
-   - 3.1 Addition
-   - 3.2 Multiplication
-   - 3.3 Determinant
-   - 3.4 Eigenvalue and Eigenvector
-
-## 4. Scalar Multiplication
-   - 4.1 Definition
-   - 4.2 Applications
-
-## 5. Properties
-   - 5.1 Addition and Subtraction
-   - 5.2 Transpose
-   - 5.3 Symmetry
-      - 5.3.1 Symmetric
-      - 5.3.2 Skew-Symmetric
-
-## 6. Partitioning
-   - 6.1 Definition
-   - 6.2 Types
-
-## 7. Special Matrices
-   - 7.1 Identity Matrix
-   - 7.2 Upper Triangular Matrix
-   - 7.3 Lower Triangular Matrix
-
-## 8. Inverse and Determinant
-   - 8.1 Inverse
-   - 8.2 Determinant
-
-## 9. Null Matrix
-   - 9.1 Definition
-   - 9.2 Unique Properties
-
-## 10. Vectors and Matrices
-   - 10.1 Definition
-   - 10.2 Matrix-Vector Multiplication
-
-## 11. Tensors
-   - 11.1 Introduction
-      - 11.1.1 Definition
-      - 11.1.2 Importance
-   - 11.2 Properties and Applications
-      - 11.2.1 Rank
-      - 11.2.2 Shape
-   - 11.3 Tensor Operations
-      - 11.3.1 Element-Wise Multiplication
-      - 11.3.2 Matrix Multiplication
-
-## 12. Conclusion
 
 
 ### Chapter 2: Probability and Statistics
