@@ -65,7 +65,7 @@ Here you will get all details of the Data Science course.
     - Computer Graphics
     - Machine Learning
     - Robotics
-- **Day 2: [Matrices and Tensors: An Overview](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day2/Content.md)**
+- **Day 2: [Matrices and Tensors: An Overview](https://github.com/Anjisnu-123/Linear-algebra/blob/main/Day2/content.md)**
     - **Introduction to Matrices**
     - Definition
     - Notation
