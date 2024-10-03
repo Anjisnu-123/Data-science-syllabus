@@ -482,6 +482,74 @@ Here you will get all details of the Data Science course.
     - Parameter Estimation
     - Goodness of Fit Tests
   - **Additional Resources**
+  - 
+- **Day 10 Index: [Continuous Probability Distributions in Data Science](https://github.com/Anjisnu-123/Probability/blob/main/Day%20010/content.md)**
+
+  - **Introduction**
+  - **Overview of Continuous Distributions**
+    - **Uniform Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Normal (Gaussian) Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Exponential Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Gamma Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Beta Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Weibull Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Log-Normal Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Pareto Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Chi-Squared Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **Student's t Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+    - **F Distribution**
+      - Definition
+      - PDF and CDF
+      - Mean, Variance, Skewness, Kurtosis
+      - Application
+  - **Applications in Data Science**
+  - **Statistical Inference**
+    - Hypothesis Testing
+    - Confidence Intervals
+  - **Fitting Data to Continuous Distributions**
+    - Parameter Estimation
+    - Goodness of Fit Tests
+  - **Additional Resources**
 
 ### Chapter 2: Probability and Statistics
 - [Descriptive Statistics](https://example.com/descriptive-statistics)
