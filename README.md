@@ -562,3 +562,25 @@ Here you will get all details of the Data Science course.
 - [Optimization Techniques](https://example.com/optimization-techniques)
 
 
+
+
+
+# QSN
+
+1. how fowd prop works
+2. how backprop work
+3. vanishing and exploding gradients
+4. what is perceptron
+5. sgd,rmsprop,adam comparitive analysis!!
+6. challenges in training deep feed fwd network
+7. l1 and l2 reg
+8. Hierarchical features is what?
+9. what is challenges in deep feed fwd network
+10. how xavier and he help in weight initialization?
+11. what is batch normalization?
+12. what kind of problem skip conn solve?
+13. why cnn choosed over fully connected network for image?
+14. parameter sharing and recieptive field
+15. convolution operation
+16. size after conv operation or how stride and padding change the shape
+17. inception block
